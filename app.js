@@ -1,8 +1,7 @@
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema.
 let amigos = [];
+let nombre = document.getElementById("amigos")
 
-if () {
-    agregarAmigo ++;
-} else (empty) {
-    alert("Escriba un nombre válido.")
-}
+function agregarAmigo() {
+   alert("click")
+};
