@@ -16,5 +16,7 @@ Solo necesitas un navegador moderno para ejecutar el proyecto.
 1. Clona este repositorio o descarga el código:
    ```bash
    git clone https://github.com/juanicolla/challenge-amigo-secreto.git
-   
+
+2. Ingresá a este enlace:
+    https://juanicolla.github.io/challenge-amigo-secreto/
 
